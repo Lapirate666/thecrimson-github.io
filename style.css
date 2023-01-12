@@ -1,0 +1,13 @@
+#border{border-style: solid; border-color: black; background-color: #8f8f8f;}
+
+#intro{color: #b00303; font-size: 50px; font-family: Arial, Helvetica,}
+
+#tag{color: white; font-size: 30px; position: relative; right: 1px;}
+
+#main{color: black; font-weight: bold; text-align: left; position: relative; left: 20px;}
+
+#staff{color: yellow; margin-right: 100px; right: 450px;}
+
+#about{position: relative; left: 20px; text-size-adjust: 20px;}
+
+#aboutinfo{}
